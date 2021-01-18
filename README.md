@@ -28,8 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Git Config
 
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+1. git config --global user.email "you@example.com";
+2. git config --global user.name "Your Name"
 (to configure the e-maill address and user name to commit the changes directly from Visual Studio code with using the "git commit "message" command in the terminal. To know 
 More about git commit follow these 2 below mentioned Links:
 1. "https://git-scm.com/docs/git-commit"
