@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular hello-world';
+
+  post = {
+    title: "Title",
+    isFavorite: true
+  }
+
+  onFavoriteChnaged(isFavorite) {
+    console.log('changes: ', isFavorite);
+  }
 }
