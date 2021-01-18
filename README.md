@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Git Config
+
+1. git config --global user.email "you@example.com";
+2. git config --global user.name "Your Name"
+(to configure the e-maill address and user name to commit the changes directly from Visual Studio code with using the "git commit "message" command in the terminal. To know 
+More about git commit follow these 2 below mentioned Links:
+1. "https://git-scm.com/docs/git-commit"
+2. "https://www.atlassian.com/git/tutorials/saving-changes/git-commit")
