@@ -6,7 +6,7 @@ import { Component, OnInit, Input, Output, EventEmitter, ViewEncapsulation } fro
   styleUrls: ['./favorite.component.scss'],
   inputs: ['isFavorite'],
   encapsulation: ViewEncapsulation.Emulated
-  ]
+  
 })
 export class FavoriteComponent {
   @Input('isFavorite') isSelected: boolean;
